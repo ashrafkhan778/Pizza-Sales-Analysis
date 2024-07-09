@@ -1,4 +1,3 @@
-![image](https://github.com/ashrafkhan778/Pizza-Sales-Analysis/assets/149621365/b71b043e-d7e6-4c2a-8bcc-43dedc3f3aa3)# Pizza Sales Analysis'
 
 # Overview
 
